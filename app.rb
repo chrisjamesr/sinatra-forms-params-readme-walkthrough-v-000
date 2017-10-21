@@ -8,9 +8,9 @@ class App < Sinatra::Base
 
   put '' do
 
-    
+
   end
 
   # Add your post route and action below
 
-end 
+end
